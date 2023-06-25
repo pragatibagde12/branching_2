@@ -1,3 +1,3 @@
-creaing new file..
-we are practicing branching..
 hey...are you doing well...
+can your resolve confict issues??
+
